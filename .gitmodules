@@ -1,3 +1,6 @@
 [submodule "QUnitTestRunnerPlugin"]
 	path = QUnitTestRunnerPlugin
 	url = git://github.com/lfryc/QUnitTestRunnerPlugin.git
+[submodule "qunit"]
+	path = qunit
+	url = git://github.com/jquery/qunit.git

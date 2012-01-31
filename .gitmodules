@@ -4,3 +4,6 @@
 [submodule "qunit"]
 	path = qunit
 	url = git://github.com/jquery/qunit.git
+[submodule "sizzle"]
+	path = sizzle
+	url = git://github.com/jquery/sizzle.git

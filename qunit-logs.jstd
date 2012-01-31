@@ -1,0 +1,12 @@
+server: http://localhost:9876
+
+load:
+  - qunit/qunit/qunit.js
+  - QUnitTestRunnerPlugin/QUnitTestRunnerPlugin.js
+  - qunit/test/index.html
+
+  - qunit/test/logs.js
+
+serve:
+   - qunit/test/index.html
+   - qunit/qunit/qunit.css

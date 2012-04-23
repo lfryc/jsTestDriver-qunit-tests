@@ -3,7 +3,7 @@
 	url = git://github.com/lfryc/QUnitTestRunnerPlugin.git
 [submodule "qunit"]
 	path = qunit
-	url = git://github.com/jquery/qunit.git
+	url = git://github.com/lfryc/qunit.git
 [submodule "sizzle"]
 	path = sizzle
 	url = git://github.com/jquery/sizzle.git
